@@ -1,5 +1,5 @@
 
-public class Default {
+//public class Default {
 //package 패키지명;
 //import 풀패키지명;
 /*	접근지정자[그외지정자] class 클래스명 
